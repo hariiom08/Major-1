@@ -1,2 +1,2 @@
 # Major-1
-Major Project - E-Commerce Sales Analysis
+Major Project - E-Commerce Sales Prediction and Analysis
